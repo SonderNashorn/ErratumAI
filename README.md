@@ -1,7 +1,5 @@
 # ErratumAI
-My contribution as the main protagonist for the Erratum game
-
-Please note this is not a final product as I am still working on the project, and is a demonstration of how my code may look like.
+My contribution for the Erratum game, the main antagonist.
 
 The way it works:
 In Erratums case the player's vision is what determines how the enemy should act.
